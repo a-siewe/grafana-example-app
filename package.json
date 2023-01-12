@@ -45,7 +45,7 @@
     "webpack-merge": "^4.2.1"
   },
   "dependencies": {
-    "@grafana/ui": "^6.2.0-alpha.0"
+    "@grafana/ui": "^9.3.2"
   },
   "homepage": "https://github.com/grafana/example-app"
 }
